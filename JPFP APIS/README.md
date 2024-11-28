@@ -17,7 +17,7 @@
 Este proyecto conlleva conexión a una API pública utilizando JavaScript con `fetch`, `async`, y `await`. Muestra una lista de publicaciones obtenidas de [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 
 ### Despliegue
-El proyecto está accesible mediante Vercel: [Enlace](URL-DEL-PROYECTO).
+El proyecto está accesible mediante Vercel: [Enlace](https://consumo-de-api-s-rose.vercel.app/).
 
 ### Instalación
 1. Duplica el repositorio desde GitHub.
